@@ -1,0 +1,6 @@
+C:\Users\seba\source\repos\ftpServer\FtpLib\bin\Debug\FtpLib.dll
+C:\Users\seba\source\repos\ftpServer\FtpLib\bin\Debug\FtpLib.pdb
+C:\Users\seba\source\repos\ftpServer\FtpLib\obj\Debug\FtpLib.csprojResolveAssemblyReference.cache
+C:\Users\seba\source\repos\ftpServer\FtpLib\obj\Debug\FtpLib.csproj.CoreCompileInputs.cache
+C:\Users\seba\source\repos\ftpServer\FtpLib\obj\Debug\FtpLib.dll
+C:\Users\seba\source\repos\ftpServer\FtpLib\obj\Debug\FtpLib.pdb

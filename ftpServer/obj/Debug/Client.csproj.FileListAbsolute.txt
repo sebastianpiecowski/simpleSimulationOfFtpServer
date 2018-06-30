@@ -1,0 +1,10 @@
+C:\Users\seba\source\repos\ftpServer\ftpServer\bin\Debug\ftpServer.exe.config
+C:\Users\seba\source\repos\ftpServer\ftpServer\bin\Debug\ftpServer.exe
+C:\Users\seba\source\repos\ftpServer\ftpServer\bin\Debug\ftpServer.pdb
+C:\Users\seba\source\repos\ftpServer\ftpServer\bin\Debug\FtpLib.dll
+C:\Users\seba\source\repos\ftpServer\ftpServer\bin\Debug\FtpLib.pdb
+C:\Users\seba\source\repos\ftpServer\ftpServer\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\seba\source\repos\ftpServer\ftpServer\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\seba\source\repos\ftpServer\ftpServer\obj\Debug\Client.csproj.CopyComplete
+C:\Users\seba\source\repos\ftpServer\ftpServer\obj\Debug\ftpServer.exe
+C:\Users\seba\source\repos\ftpServer\ftpServer\obj\Debug\ftpServer.pdb

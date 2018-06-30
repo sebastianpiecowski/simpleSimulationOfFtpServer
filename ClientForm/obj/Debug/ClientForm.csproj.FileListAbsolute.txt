@@ -1,0 +1,13 @@
+C:\Users\seba\source\repos\ftpServer\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\seba\source\repos\ftpServer\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\seba\source\repos\ftpServer\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\seba\source\repos\ftpServer\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\seba\source\repos\ftpServer\ClientForm\obj\Debug\ClientForm.Form1.resources
+C:\Users\seba\source\repos\ftpServer\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\seba\source\repos\ftpServer\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\seba\source\repos\ftpServer\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\seba\source\repos\ftpServer\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\seba\source\repos\ftpServer\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\seba\source\repos\ftpServer\ClientForm\bin\Debug\FtpLib.dll
+C:\Users\seba\source\repos\ftpServer\ClientForm\bin\Debug\FtpLib.pdb
+C:\Users\seba\source\repos\ftpServer\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
